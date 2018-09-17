@@ -1,0 +1,18 @@
+.modalList{
+    /* border: solid 2px black; */
+    display: block;
+}
+
+.model_Item{
+    /* height: 40vh; */
+    margin: 20px 15px;
+}
+
+.modalList-container{
+    padding : 3vw 5vw;
+}
+
+.modelName{
+    font-weight: bold;
+    font-size: 16px;
+}

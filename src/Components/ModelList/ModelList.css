@@ -1,0 +1,25 @@
+.Item-container{
+    display: flex;
+    justify-content: left;
+    border: solid 2px black;
+    height: 25vh;
+    border-radius: 8px;
+    overflow-x: scroll;
+    margin-top: 10px;
+}
+.ListItem{
+    border: solid 2px black;
+    width: 50vw;
+    height: 20vh;
+    margin: 12px 5px;
+    border-radius: 5px;
+    font-size: 13px;
+    text-align: center;
+    width: 300vw;
+}
+.model_Image{
+    height: 10vh;
+    width: 10vw;
+    margin : 15px 5px;
+    cursor: pointer;
+}
